@@ -1,1 +1,1 @@
-npx serve -- --port 3001
+npx serve ./build -- --port 3001
